@@ -1,0 +1,2 @@
+# Synthia
+Smart Assistant
